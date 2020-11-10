@@ -17,7 +17,6 @@ body {
     height: calc(var(--vh, 1vh) * 100);
     overflow: hidden;
     color: rgb(var(--color));
-    /* color: rgb(1, 161, 161); */
 }
 .content {
     width: 100%;
